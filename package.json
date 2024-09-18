@@ -1,7 +1,7 @@
 {
   "name": "awesome-job-boards",
   "description": "Explore top job boards worldwide designed to connect employers with candidates and candidates with employers quickly.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Dmitrii Selikhov",
@@ -15,6 +15,14 @@
       "url": "https://www.linkedin.com/in/dimetrix"
     }
   ],
+  "email": "dmitrii.selikhov@gmail.com",
+  "homepage": "https://github.com/idimetrix/awesome-job-boards#readme",
+  "url": "https://github.com/idimetrix/awesome-job-boards/issue",
+  "bugs": {
+    "url": "https://github.com/idimetrix/awesome-job-boards/issues"
+  },
+  "keywords": [],
+  "files": ["package.json", "README.md"],
   "main": "index.js",
   "scripts": {
     "prettier": "prettier --write README.md"
