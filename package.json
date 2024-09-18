@@ -1,7 +1,7 @@
 {
   "name": "awesome-job-boards",
-  "description": "The best job boards for fast hiring.",
-  "version": "1.0.0",
+  "description": "Explore top job boards worldwide designed to connect employers with candidates and candidates with employers quickly.",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Dmitrii Selikhov",

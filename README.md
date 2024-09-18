@@ -1,8 +1,8 @@
-# Awesome Job Boards
+# Awesome Job Boards (All Job Boards)
 
 [//]: # "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
 
-The best job boards for fast hiring.
+Explore top job boards worldwide designed to connect employers with candidates and candidates with employers quickly.
 
 ## Table of Contents
 
