@@ -1,0 +1,25 @@
+{
+  "name": "awesome-job-boards",
+  "description": "The best job boards for fast hiring.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Dmitrii Selikhov",
+    "email": "dmitrii.selikhov@gmail.com",
+    "url": "https://www.linkedin.com/in/dimetrix"
+  },
+  "contributors": [
+    {
+      "name": "Dmitry (Di) Selikhov",
+      "email": "dmitrii.selikhov@gmail.com",
+      "url": "https://www.linkedin.com/in/dimetrix"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write README.md"
+  },
+  "dependencies": {
+    "prettier": "3.3.3"
+  }
+}
