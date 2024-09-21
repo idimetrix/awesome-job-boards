@@ -69,6 +69,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 - [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
 - [Webscale Jobs](https://www.webscale.work) - Find a career working with MongoDB
+- [Bubble Jobs](https://www.bubble-jobs.co.uk/) | Job board focused on data roles.
 
 ## Blockchain
 
@@ -83,6 +84,9 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Next Crypto Jobs](https://nextcryptojobs.com/)
 - [Woody3](https://www.woody3.xyz/)
 - [Web3 Jobs](https://web3.career/)
+- [BeInCrypto Jobs](https://beincrypto.com/jobs/) | Job board specializing in blockchain jobs.
+- [101 Blockchains Jobs](https://101blockchains.com/web3-and-blockchain-jobs/) | Web3 and blockchain job listings.
+- [MyWeb3Jobs](https://myweb3jobs.com/) | Job board for web3 and blockchain opportunities.
 
 ## Design
 
@@ -105,6 +109,8 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Creativepool](https://creativepool.com/jobs/)
 - [The Loop](https://www.theloop.com.au/jobs)
 - [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+- [Built In](https://builtin.com/) | Connects tech professionals with startups and companies.
+- [Contra](https://contra.com/) | Job board for freelance creatives.
 
 ## InfoSec
 
@@ -165,6 +171,13 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
 - [DevJobsPRO](https://devjobspro.com)
+- [TICJob](https://ticjob.co/es/search) | IT job board focused on tech roles.
+- [ICT Job](https://ictjob.de/) | IT and tech job board in Germany.
+- [IT-Treff](https://it-treff.de/) | Job board for IT positions.
+- [Heise Jobs](https://jobs.heise.de/) | Job listings from a tech media outlet.
+- [Tecnoempleo](https://www.tecnoempleo.com/) | Spanish job board for IT professionals.
+- [ComputerJobs.ie](https://www.computerjobs.ie/) | Irish job board for tech roles.
+- [Qreer](https://www.qreer.com/) | European technical job board.
 
 ## Remote
 
@@ -222,6 +235,15 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [RemoteSource](https://jobs.remotesource.com/jobs)
 - [tryremotely](https://tryremotely.com/remote-jobs)
 - [Find My Remote](https://findmyremote.ai/jobs)
+- [Arc](https://arc.dev/remote-jobs) | Remote jobs platform for developers.
+- [Remote Rocketship](https://www.remoterocketship.com/) | Remote jobs platform for various sectors.
+- [Working Nomads](https://www.workingnomads.com/jobs) | Curated remote job listings.
+- [FlowRemote](https://www.flowremote.io/) | Remote job opportunities in tech.
+- [Otta](https://otta.com/) | Job board focused on startup roles.
+- [RemoteFront](https://www.remotefront.com/) | Platform for remote work opportunities.
+- [JobRack](https://jobrack.eu/) | Eastern European job board for remote roles.
+- [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
+- [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
 
 ## Freelancer
 
@@ -239,6 +261,8 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
+- [Freelancermap](https://www.freelancermap.com/) | Job platform for freelancers.
+- [HireBasis](https://www.hirebasis.com/) | Job board for freelancers and contractors.
 
 ## Other
 
@@ -391,6 +415,13 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [StartupHire](https://www.startuphire.com/)
 - [Work in biotech](https://workinbiotech.com/)
+- [JoinRise](https://joinrise.co/) | Job platform connecting startups and talent.
+- [Job Fluent](https://jobfluent.com/) | Job board for tech jobs in Europe.
+- [The Hub](https://thehub.io/) | Job board for startups in the Nordics.
+- [EU Startups](https://eu-startups.com/) | Job board for startups in Europe.
+- [Y Combinator](https://ycombinator.com/) | Startup accelerator with job listings.
+- [StartupSucht](https://www.startupsucht.com/) | Job board focused on German startups.
+- [WorkAtAStartup](https://www.workatastartup.com/) | Job board for entry-level startup positions.
 
 ## Open_Source
 
@@ -398,13 +429,18 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Open Source Jobs](https://oo.t9t.io/jobs)
 - [LinuxJobs.io](https://www.linuxjobs.io/)
 - [Fossfox](https://fossfox.com/)
+- [TheJobNetwork](https://www.thejobnetwork.com/) | Job board network with a wide range of listings.
 
 ## DevOps
 
 - [JobDevOps](https://jobdevops.com)
 - [Kube Careers](https://kube.careers)
+- [NoFluffJobs](https://nofluffjobs.com/) | Job board for tech roles with clear job descriptions.
 
 ## World
+
+- [Talent.com](https://www.talent.com/) | Global job search engine.
+- [CareerBliss](https://www.careerbliss.com/) | Career community focused on workplace happiness.
 
 ### United_States
 
@@ -415,6 +451,13 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
 
+## Argentina
+
+- [Bumeran](https://www.bumeran.com.ar/) | Monster-like generalist job board for Argentina (Job board).
+- [Computrabajo](https://www.computrabajo.com.ar/) | A syndicated site with a presence in 19 Latin American countries, purported leader in 10, including Argentina (Job board).
+- [Zonajobs](https://www.zonajobs.com.ar/) | Massive listing site (Job board).
+- [Mibucle](https://www.mibucle.com/) | Digital and tech job boards, recruitment marketing and employer branding (Job board).
+
 ### Australia
 
 - [austechjobs](https://austechjobs.com.au/)
@@ -424,6 +467,28 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Breakout Careers](https://breakout.careers/jobs)
 - [Headhunted](https://www.headhunted.com.au/jobs/)
 - [seojobs](https://seojobs.au/)
+- [Airtasker](https://www.airtasker.com/) | Upwork competitor for the Australian market (Gig platform).
+- [Sidekicker](https://sidekicker.com/au/) | On-demand staffing platform for hourly tasks (Gig platform).
+- [Jobtome](http://au.jobtome.com/) | Job platform that aggregates job posts from different sources (Job aggregator).
+- [Ethical Jobs](https://ethicaljobs.com.au/) | Job-search site listing community, environmental, not-for-profit, and social enterprise jobs contributing to a more equitable, just, or sustainable world (Job board).
+
+### Austria
+
+- [Der Standard](https://jobs.derstandard.at/) | Job board of Austria's leading quality newspaper (Job board).
+- [Karriere](https://www.karriere.at/) | Austria's largest career portal (Job board).
+- [hokify](https://hokify.at/) | Austrian startup focused on placing professionals in tourism, catering, craft, and commercial sectors (Marketplace).
+
+## Belgium
+
+- [Actiris](http://www.actiris.be/) | Official job board funded by the Brussels Government (Job board).
+- [creativeskills.be](https://www.creativeskills.be/) | Job board for creative, technical, and management profiles in the creative, communications, and digital development sectors (Job board).
+- [jobat](https://www.jobat.be/en) | Job site and newspaper with a wide selection of vacancies and workplace-related articles (Job board).
+- [Pro-unity](https://www.pro-unity.com/) | Contingent workforce marketplace (Job board).
+
+## Brazil
+
+- [Vagas](https://www.vagas.com.br/) | Over 80 million resumes, 5 million unique visitors per month, and 115 million pageviews. Among the 200 largest sites in Brazil and 6,000 in the world (Job board).
+- [The Bridge](http://www.thebridge.social/) | Tech, digital, and UX jobs at consultancies, startups, and companies (Job board).
 
 ### Canada
 
@@ -435,6 +500,52 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [jobgurus](https://ca.jobgurus.net/)
+- [betakit](https://betakit.com/jobs/) | Startup news site with a jobs board (Job board).
+- [Prospect](https://www.prospect.fyi/) | Career network built by-and-for the Canadian tech startup ecosystem (Job board).
+- [MaRS D - Work in Tech](https://www.marsdd.com/work-in-tech/community-job-board/) | Toronto's largest tech community hub, with links to other affiliated hubs in Canada (Job board).
+- [Workopolis](https://www.workopolis.com/en/) | Major job board and platform (Job board).
+- [Tech Ladies](https://www.hiretechladies.com/) | A worldwide community with 50,000 members offering a free job board, opportunities to learn, and career support for women in tech (Social network).
+
+## Colombia
+
+- [Elempleo](https://elempleo.com/) | Job board for Colombia and Costa Rica (Job board).
+- [TicJobs](https://ticjob.co/) | Employment and career management portal dedicated exclusively to ICT candidates (Job board).
+
+## Croatia
+
+- [Moj Posao](https://www.moj-posao.net/) | Job board and CV database (Job board).
+
+## Cyprus
+
+- [Ergodotisi](https://www.ergodotisi.com/) | Job board and CV database (Job board).
+- [Carierista](https://www.carierista.com/en) | Cyprus's first professional social network, part of the CyprusNews Media family (Social network).
+
+## Czech Republic
+
+- [Czechcrunch](https://www.czechcrunch.cz/jobs) | Online magazine featuring the latest information on startups and technology, with a job board (Job board).
+- [flek.cz](https://flek.cz/) | Early career lifestyle portal (Job board).
+- [Jobs.cz](https://www.jobs.cz/en/) | Tech-oriented job board, possibly the dominant player in the Czech Republic (Job board).
+- [Proudly](https://www.proudly.cz/) | Czech online career showroom showcasing companies and their employees, similar to The Muse (Job board).
+- [startupjobs.cz](https://www.startupjobs.cz/) | Dominant startup job board (Job board).
+- [Profesia.cz](https://www.profesia.cz/) | Job board owned by the company behind Jobs.cz (Job board).
+
+## Estonia
+
+- [cv.ee](http://www.cv.ee/) | The first and most prestigious job portal in Estonia with over 1.3 million job seekers and 1 million CVs (Job board).
+- [MeetFrank](https://meetfrank.com/) | 'Secret career app' that shows you which companies want to hire you and how much they are willing to pay (Marketplace).
+
+## Finland
+
+- [duunitori.fi](https://duunitori.fi/) | Career portal and job aggregator (Job board).
+- [Oikotie](https://tyopaikat.oikotie.fi/en/haku?sort_by=publication_time) | General job board (Job board).
+
+## France
+
+- [Cadremploi](https://www.cadremploi.fr/) | Direct employer job ads posted by recruiters (Job board).
+- [Le bon coin](https://www.leboncoin.fr/) | Peer-to-peer classifieds site, similar to Craigslist (Job board).
+- [ChooseYourBoss](https://www.chooseyourboss.com/) | Tech talent job board (Job board).
+- [Keljob](https://www.keljob.com/) | Blue-collar job board (Job board).
+- [LesJeudis](https://www.lesjeudis.com/) | Jobs in IT (Job board).
 
 ### United_Kingdom
 
@@ -449,6 +560,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 - [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 - [DevITjobs UK](https://devitjobs.uk/)
+- [JobTEAM](https://www.jobvector.de/) | All-sector job board, used by agency recruiters.
 
 ### Germany
 
@@ -468,6 +580,38 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [rekruter](https://www.rekruter.de/)
 - [meinestadt](https://www.meinestadt.de/)
 - [karrieresprung](https://www.karrieresprung.de/)
+- [Absolventa](https://www.absolventa.de/) | Niche job board in Germany helping students, graduates, and young professionals find a job they love (Job board).
+- [Das Auge](https://dasauge.de/) | Job opportunities for designers, graphic artists, photographers, multimedia, and advertising (Job board).
+- [ICTJob](https://www.ictjob.de/) | IT and tech job board (Job board).
+- [make it in Germany](https://www.make-it-in-germany.com/en/) | Government job portal targeted at foreign talent in in-demand industries (Job board).
+- [Qreer.com](https://www.qreer.com/) | European technical job board with smart job marketing solutions (Job board).
+- [4scotty](https://4scotty.com/en) | Tech job board (Job board).
+- [webentwickler-jobs.de](https://www.webentwickler-jobs.de/) | Specialized IT job board for web development by ictjob.de (Job board).
+- [softwareentwickler-jobs.de](https://www.softwareentwickler-jobs.de/) | Specialized IT job board for software development by ictjob.de (Job board).
+- [mediengestalter-jobs.de](https://www.mediengestalter-jobs.de/) | Specialized IT job board for media and design-related jobs by ictjob.de (Job board).
+- [Get In IT](https://www.get-in-it.de/) | IT graduate job board, ideal for computer science graduates (Job board).
+- [YourFirm](http://yourfirm.de/) | Specialized in medium-sized and family-owned companies (Job board).
+- [GermanITJobs.com](https://germanitjobs.com/) | Job board for English-speaking software developers in Germany (Job board).
+- [JOIN](https://join.com/) | Multi-posting site, predominantly distributing to free job boards (Multi-poster).
+
+## Global
+
+- [workwithus.io](https://workwithus.io/) | Job board for creatives worldwide (Job board).
+- [FullStack.Cafe](https://www.fullstack.cafe/) | Job board for Web, Front-End, and Full-Stack developers (Job board).
+- [Gamedevjobs](https://gamedevjobs.io/) | Unique game job board with over 7,000 game developer jobs (Job board).
+- [GlobalCareWork](https://www.giveagradago.com/) | UK's top graduate recruitment agency, now launched in Australia (Job board).
+- [WorkWithUs](https://www.notion.so/WorkWithUs.io) | Job board (Job board).
+- [HR Tech Jobs](https://emprego.sapo.pt/) | Free job board (Job board).
+- [Jobs On The Block](https://jobsontheblock.io/) | 100% remote job board exclusive for the blockchain industry (Job board).
+- [Woody Jobs](https://www.woodyjobs.com/) | Platform for product & design teams, focusing on Product Design, UX, UI, PM, and Product Marketing jobs (Job board).
+
+## Iceland
+
+- [Tvinna](http://tvinna.is/) | Tech jobs in Iceland (Job board).
+
+## Israel
+
+- [Jobmaster](https://www.jobmaster.co.il/) | Over 2.5 million users monthly; job seekers do not have to pay for searches or reports (Job board).
 
 ### Netherlands
 
@@ -475,6 +619,12 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [HOITALENT](https://hoitalent.com/position/)
 - [Together Abroad](https://www.togetherabroad.nl/jobs.html)
 - [Jobs in the Netherlands](https://www.welcome-to-nl.nl/jobs/)
+- [ICTergezocht.nl](https://www.ictergezocht.nl/) | 45,000 registered ICT specialists (Job board).
+- [Intermediair](https://www.intermediair.nl/) | Work-life platform for highly educated people, established in 1965 (Job board).
+- [Joof](https://www.joof.nl/) | Free job posting site (Job board).
+- [Magnet.me](https://magnet.me/) | Graduate job platform, launched in 2012 (Job board).
+- [Nationale Vacaturebank](https://www.nationalevacaturebank.nl/) | One of the most popular career sites in the Netherlands for 7 years, part of Persgroep Online Services (Job board).
+- [Techniekwerkt.nl](https://www.techniekwerkt.nl/) | Tech job board for all kinds of engineering roles (Job board).
 
 ### Denmark
 
@@ -482,6 +632,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [It Job Bank](https://www.it-jobbank.dk/)
 - [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
 - [Open Jobs in Denmark](https://www.state-of-denmark.com/jobs)
+- [Jobindex.dk](https://www.jobindex.dk/) | No. 1 job board and CV database in Denmark (Job board).
 
 ### Italy
 
@@ -495,6 +646,19 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Subito](https://www.subito.it/)
 - [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
 - [Gi Group](https://www.gigroup.it/)
+- [InfoJobs](https://www.infojobs.it/) | No. 1 platform in Italy for job searches; over 3,000 companies use it monthly to find talent (Job board).
+- [jobrapido](https://it.jobrapido.com/) | Global job aggregator, part of Symphony Technology Group (Job board).
+
+## Latvia
+
+- [LikeIT](https://www.likeit.lv/) | Job board for IT roles (Job board).
+- [Prakse](https://www.prakse.lv/lv) | Job board for internships and junior-level roles (Job board).
+
+## México
+
+- [Empleos IT](https://empleosti.com.mx/) | Growing job board mainly for IT jobs (Job board).
+- [Computrabajo](https://www.computrabajo.com.mx/) | Job board, most useful for entry-level jobs (Job board).
+- [LaPieza](https://lapieza.io/) | New job board for tech and startup jobs in MX and Latin America (Job board).
 
 ### Poland
 
@@ -502,6 +666,19 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Crossweb](https://crossweb.pl/en/job/oferty-pracy/)
 - [Bulldogjob](https://bulldogjob.com/)
 - [Just Join IT](https://justjoin.it/)
+- [Crossjob](https://crossweb.pl/job/) | Job board from the creators of an IT meetup aggregator (Job board).
+- [GoldenLine](https://www.goldenline.pl/) | Local equivalent of LinkedIn, with job advertising features (Job board).
+- [jober](https://www.jober.pl/) | Free job posting portal (Job board).
+- [KarierawFinansach](https://www.karierawfinansach.pl/) | Focused on finance, banking, insurance, and BPO/SSC sectors (Job board).
+- [Skillshot](https://www.skillshot.pl/) | Job offers in the gaming industry (Job board).
+
+## Portugal
+
+- [IT Jobs](https://www.itjobs.pt/) | Leading portal for IT employment and training in Portugal (Job board).
+
+## Slovakia
+
+- [Robime.it](https://robime.it/) | Portal for IT professionals and related roles (Job board).
 
 ### Switzerland
 
