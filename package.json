@@ -21,7 +21,22 @@
   "bugs": {
     "url": "https://github.com/idimetrix/awesome-job-boards/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "awesome",
+    "job",
+    "jobs",
+    "freelance",
+    "awesome-list",
+    "freelancer",
+    "jobboard",
+    "workfromhome",
+    "jobboards",
+    "workfromhomejobs",
+    "awesomejob",
+    "awesomejobs",
+    "awesome-job",
+    "awesome-jobs"
+  ],
   "files": ["package.json", "README.md"],
   "main": "index.js",
   "scripts": {
