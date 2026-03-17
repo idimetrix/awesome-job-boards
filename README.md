@@ -718,6 +718,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
 - [Omnes Group](https://www.omnesgroup.com/search-jobs/) Europe
+- [Defence Jobs in Europe](https://www.defencejobs.org) | The main job board for European defence
 
 ### Turkey
 
