@@ -401,6 +401,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [GreenLever](https://greenlever.co/)
+- [FindRemoteLawJobs](https://findremotelawjobs.com) | Remote Legal Jobs
 
 ## Entry_Level
 
