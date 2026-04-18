@@ -460,6 +460,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [usdevjobs](https://usdevjobs.com/) | Real-time job aggregator for software, AI/ML, and data roles from US startups.
 
 ## Argentina
 
