@@ -507,6 +507,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Jobboom](https://www.jobboom.com/en/job/)
 - [Jobillico](https://www.jobillico.com/search-jobs)
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Free daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences (Job board).
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [jobgurus](https://ca.jobgurus.net/)
