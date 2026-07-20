@@ -763,3 +763,7 @@ If you find this list helpful, please consider giving it a star! ⭐
 ---
 
 **Made with ❤️ by the community**
+
+---
+
+Built by the team behind [Planoda](https://planoda.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-job-boards) — an AI-native work platform, currently pre-launch and building in public.
