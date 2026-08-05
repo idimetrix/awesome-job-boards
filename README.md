@@ -402,6 +402,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [GreenLever](https://greenlever.co/)
 - [FindRemoteLawJobs](https://findremotelawjobs.com) | Remote Legal Jobs
+- [Developer Marketing Jobs](https://github.com/Infrasity-Labs/developer-marketing-jobs) - Daily-updated job board for DevRel, Technical Writing, Developer Marketing, and Community roles.
 
 ## Entry_Level
 
