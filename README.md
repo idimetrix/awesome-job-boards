@@ -81,6 +81,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 - [Blocktribe](https://blocktribe.com/)
 - [Crypto Jobs List](https://cryptojobslist.com/)
+- [GMI Jobs](https://gmijobs.com/)
 - [CryptoJobs](https://crypto.jobs/)
 - [Blockew](https://blockew.com/)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
