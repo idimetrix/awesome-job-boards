@@ -502,6 +502,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 ### Canada
 
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Free daily-updated Canadian student and recent-grad job board for internships, co-ops, new-grad, junior, and entry-level roles across tech, engineering, business, finance, sciences, arts, and other fields (Job board).
 - [Work in Tech](https://www.workintech.ca/)
 - [Toronto Startup Jobs](https://to9to5.com/)
 - [Jobboom](https://www.jobboom.com/en/job/)
