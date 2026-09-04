@@ -246,6 +246,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Find My Remote](https://findmyremote.ai/jobs)
 - [Arc](https://arc.dev/remote-jobs) | Remote jobs platform for developers.
 - [Remote Rocketship](https://www.remoterocketship.com/) | Remote jobs platform for various sectors.
+- [Remote Impact](https://remoteimpact.org/) | Remote jobs for climate, AI safety, nonprofits, global health, and social impact, with source-tracked listings and free job alerts.
 - [Working Nomads](https://www.workingnomads.com/jobs) | Curated remote job listings.
 - [FlowRemote](https://www.flowremote.io/) | Remote job opportunities in tech.
 - [Otta](https://otta.com/) | Job board focused on startup roles.
