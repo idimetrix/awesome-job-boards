@@ -253,6 +253,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [JobRack](https://jobrack.eu/) | Eastern European job board for remote roles.
 - [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
 - [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
+- [Real Job Work From Home](https://realjobworkfromhome.com/) | Remote job board with free browsing, keyword and employment-type filters, and a salary-listed filter.
 
 ## Freelancer
 
