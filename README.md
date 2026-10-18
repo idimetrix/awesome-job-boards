@@ -432,6 +432,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Y Combinator](https://ycombinator.com/) | Startup accelerator with job listings.
 - [StartupSucht](https://www.startupsucht.com/) | Job board focused on German startups.
 - [WorkAtAStartup](https://www.workatastartup.com/) | Job board for entry-level startup positions.
+- [DMtheFounder](https://dmthefounder.com/) | Early engineering and founding roles that startup founders post themselves on X and Hacker News, verified and linked to the original post.
 
 ## Open_Source
 
