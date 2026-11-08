@@ -254,6 +254,8 @@ This comprehensive collection features 700+ job boards across different categori
 - [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
 - [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
 
+- [AbroadStack](https://abroadstack.com/jobs) | Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
+
 ## Freelancer
 
 - [Upwork](https://www.upwork.com)
