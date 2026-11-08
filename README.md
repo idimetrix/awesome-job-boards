@@ -58,6 +58,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [AI Jobs](https://ai-jobs.net/)
 - [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) | AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
+- [Present of AI](https://presentofai.com/jobs) | 10,000+ live AI jobs aggregated daily from AI company career pages, with a free jobs API, MCP server and XML feed.
 
 ## Data
 
