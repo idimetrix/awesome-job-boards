@@ -574,6 +574,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 ### Germany
 
+- [Pegel](https://pegel.app) | Free tech jobs in Berlin, Hamburg and Munich, sourced from employer hiring feeds with links to original applications.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
