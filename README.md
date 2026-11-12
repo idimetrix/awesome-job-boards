@@ -415,6 +415,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [ErasmusIntern](https://erasmusintern.org/traineeships)
 - [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
+- [ProfScout](https://profscout.com)
 
 ## Startups
 
