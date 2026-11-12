@@ -53,6 +53,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 ## AI
 
+- [caio.pro](https://caio.pro/jobs.html) | AI and data leadership roles, including Head of AI and Chief AI Officer; free to browse.
 - [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
 - [AI Jobs](https://ai-jobs.net/)
