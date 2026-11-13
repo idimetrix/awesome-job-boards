@@ -275,6 +275,8 @@ This comprehensive collection features 700+ job boards across different categori
 
 ## Other
 
+- [Autojob](https://autojob.org/) | Job board with 20,000+ jobs and an auto-apply feature.
+
 - [Job Board Search](https://jobboardsearch.com/)
 - [Monster](https://www.monster.com/)
 - [GitHub Jobs](https://jobs.github.com/)
