@@ -189,6 +189,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 ## Remote
 
+- [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
 - [Career Vault](https://careervault.io/)
 - [Remotebond](https://remotebond.com/)
