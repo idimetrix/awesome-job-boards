@@ -460,6 +460,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [Jobiglo](https://jobiglo.com/) | Global job aggregator with country editions worldwide, updated daily, salary data when available.
 
 ## Argentina
 
