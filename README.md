@@ -50,6 +50,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://twitter.com/jobs)
+- [Jobiba](https://jobiba.com/) - Live jobs worldwide with salary pages built from pay listed in job ads, apps for ChatGPT and Claude, and a free jobs API. India: [jobiba.in](https://jobiba.in/).
 
 ## AI
 
