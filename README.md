@@ -49,6 +49,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
+- [openradar](https://openradar.fun) - Open feed of vacancies and freelance orders from boards, RSS, Telegram channels and ATS career pages; contacts stay in the post, free API, RSS and MCP, no paid tier.
 - [X jobs](https://twitter.com/jobs)
 
 ## AI
