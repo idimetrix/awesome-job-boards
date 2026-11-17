@@ -720,6 +720,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [lovejob](https://en.lovejob.lt/)
 - [Omnes Group](https://www.omnesgroup.com/search-jobs/) Europe
 - [Defence Jobs in Europe](https://www.defencejobs.org) | The main job board for European defence
+- [NewLuxJob](https://newluxjob.com/en/jobs) | Jobs across Europe aggregated daily from public sources, by country and profession, with a visa sponsorship filter (Aggregator).
 
 ### Turkey
 
