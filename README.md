@@ -460,6 +460,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [Jobs Every Hour](https://jobseveryhour.com/)
 
 ## Argentina
 
