@@ -186,6 +186,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Tecnoempleo](https://www.tecnoempleo.com/) | Spanish job board for IT professionals.
 - [ComputerJobs.ie](https://www.computerjobs.ie/) | Irish job board for tech roles.
 - [Qreer](https://www.qreer.com/) | European technical job board.
+- [RoleWeek](https://roleweek.com/) | Developer and tech jobs posted in the last 7 days, read from employers' own careers pages.
 
 ## Remote
 
