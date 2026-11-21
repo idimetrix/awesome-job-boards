@@ -270,6 +270,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
+- [Freelance Club](https://fwork.club/en) | Freelance marketplace with USDT escrow — payment is held until the client approves the delivered work.
 - [Freelancermap](https://www.freelancermap.com/) | Job platform for freelancers.
 - [HireBasis](https://www.hirebasis.com/) | Job board for freelancers and contractors.
 
