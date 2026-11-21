@@ -251,6 +251,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Otta](https://otta.com/) | Job board focused on startup roles.
 - [RemoteFront](https://www.remotefront.com/) | Platform for remote work opportunities.
 - [JobRack](https://jobrack.eu/) | Eastern European job board for remote roles.
+- [Euro Remote Talent](https://euroremotetalent.com/remote-jobs) | Remote jobs open to people based in Europe.
 - [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
 - [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
 
