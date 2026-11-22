@@ -90,6 +90,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Next Crypto Jobs](https://nextcryptojobs.com/)
 - [Woody3](https://www.woody3.xyz/)
 - [Web3 Jobs](https://web3.career/)
+- [Sailonchain](https://sailonchain.com/)
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/) | Job board specializing in blockchain jobs.
 - [101 Blockchains Jobs](https://101blockchains.com/web3-and-blockchain-jobs/) | Web3 and blockchain job listings.
 - [MyWeb3Jobs](https://myweb3jobs.com/) | Job board for web3 and blockchain opportunities.
