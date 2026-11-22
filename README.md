@@ -720,6 +720,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [lovejob](https://en.lovejob.lt/)
 - [Omnes Group](https://www.omnesgroup.com/search-jobs/) Europe
 - [Defence Jobs in Europe](https://www.defencejobs.org) | The main job board for European defence
+- [EuroJobs.ai](https://eurojobs.ai/) | IT jobs in the EU, EEA, UK and Switzerland from employers' own job boards
 
 ### Turkey
 
