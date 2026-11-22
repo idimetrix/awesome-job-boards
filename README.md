@@ -732,6 +732,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 - [Remote Jobs in Dubai](https://www.remotedxb.com)
 - [JobXDubai](https://jobxdubai.com)
+- [Techny](https://techny.dev/?ref=gh-idimetrix) - Tech jobs in the UAE, Saudi Arabia and Egypt, read from company career pages every 3 hours.
 
 ### Asia
 
