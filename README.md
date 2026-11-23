@@ -26,6 +26,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Startups](#startups)
 - [Free & Open Source](#open_source)
 - [DevOps](#devops)
+- [Electronics & Hardware](#embedded)
 - [World](#world)
   - [USA](#united_states)
   - [Australia](#australia)
@@ -446,6 +447,10 @@ This comprehensive collection features 700+ job boards across different categori
 - [JobDevOps](https://jobdevops.com)
 - [Kube Careers](https://kube.careers)
 - [NoFluffJobs](https://nofluffjobs.com/) | Job board for tech roles with clear job descriptions.
+
+## Electronics & Hardware
+
+- [EmbeddedJobs](https://embedded.jobs) | Job board dedicated to embedded systems engineering roles.
 
 ## World
 
