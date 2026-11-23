@@ -432,6 +432,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Y Combinator](https://ycombinator.com/) | Startup accelerator with job listings.
 - [StartupSucht](https://www.startupsucht.com/) | Job board focused on German startups.
 - [WorkAtAStartup](https://www.workatastartup.com/) | Job board for entry-level startup positions.
+- [VCBacked](https://www.vcbacked.co/startup-jobs) | Jobs at startups that recently raised venture funding.
 
 ## Open_Source
 
