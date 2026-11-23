@@ -402,6 +402,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [GreenLever](https://greenlever.co/)
 - [FindRemoteLawJobs](https://findremotelawjobs.com) | Remote Legal Jobs
+- [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 
 ## Entry_Level
 
