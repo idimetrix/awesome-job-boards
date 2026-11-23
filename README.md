@@ -275,6 +275,7 @@ This comprehensive collection features 700+ job boards across different categori
 
 ## Other
 
+- [AimVantage](https://aimvantage.uk) - AI career preparation platform with built-in job search, interview prep, and 20+ free career tools.
 - [Job Board Search](https://jobboardsearch.com/)
 - [Monster](https://www.monster.com/)
 - [GitHub Jobs](https://jobs.github.com/)
