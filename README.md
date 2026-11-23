@@ -80,6 +80,7 @@ This comprehensive collection features 700+ job boards across different categori
 ## Blockchain
 
 - [Blocktribe](https://blocktribe.com/)
+- [ChainJobs](https://chainjobs.io/) | 2,650+ live crypto & web3 jobs re-scraped daily from official ATS boards, with salary data.
 - [Crypto Jobs List](https://cryptojobslist.com/)
 - [CryptoJobs](https://crypto.jobs/)
 - [Blockew](https://blockew.com/)
