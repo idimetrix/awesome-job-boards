@@ -697,6 +697,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [WeJob.ch](https://WeJob.ch/)
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
+- [SwissAIJob](https://swissaijob.ch/)
 
 ### Europe_Other
 
