@@ -440,6 +440,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [LinuxJobs.io](https://www.linuxjobs.io/)
 - [Fossfox](https://fossfox.com/)
 - [TheJobNetwork](https://www.thejobnetwork.com/) | Job board network with a wide range of listings.
+- [freehire](https://github.com/strelov1/freehire) | Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many ATS boards and Telegram channels.
 
 ## DevOps
 
