@@ -54,6 +54,7 @@ This comprehensive collection features 700+ job boards across different categori
 ## AI
 
 - [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
+- [Jobloo](https://jobloo.co/) | AI-powered job search and application platform with 1.3M+ jobs. Helps candidates discover opportunities, generate tailored resumes and cover letters, and apply faster with AI.
 - [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
 - [AI Jobs](https://ai-jobs.net/)
 - [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
