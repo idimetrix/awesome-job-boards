@@ -73,7 +73,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Data Engineer Jobs](https://dataengineerjobs.com)
 - [Data Engineering Jobs](https://dataengjobs.com/)
 - [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
-- [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
+- [Dataaxy](https://dataaxy.com/) | Data & AI jobs in North America and Europe, plus public talent profiles.
 - [Webscale Jobs](https://www.webscale.work) - Find a career working with MongoDB
 - [Bubble Jobs](https://www.bubble-jobs.co.uk/) | Job board focused on data roles.
 
