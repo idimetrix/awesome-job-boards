@@ -130,6 +130,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
 - [YesWeHack](https://jobs.yeswehack.com/en/)
 - [CyberStryde](https://cyber-stryde.com/)
+- [infosecjobs.io](https://infosecjobs.io/)
 
 ## Programming
 
