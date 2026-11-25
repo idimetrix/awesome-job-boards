@@ -58,6 +58,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [AI Jobs](https://ai-jobs.net/)
 - [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) | AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
+- [Get Paid To Train AI](https://getpaidtotrain.ai) | AI training and data annotation jobs from Mercor, Outlier, Alignerr, Handshake and more, with pay ranges.
 
 ## Data
 
