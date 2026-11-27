@@ -253,6 +253,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [JobRack](https://jobrack.eu/) | Eastern European job board for remote roles.
 - [Crossover](https://www.crossover.com/jobs) | High-level remote job board.
 - [Flexa Careers](https://flexa.careers/) | Remote work platform focusing on flexibility.
+- [Remote Roles](https://remoteroles.so/) | Remote-only jobs in every field, with pay shown up front.
 
 ## Freelancer
 
@@ -460,6 +461,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [Physician Roles](https://physicianroles.com/) | US physician jobs by specialty and state, with pay shown up front.
 
 ## Argentina
 
