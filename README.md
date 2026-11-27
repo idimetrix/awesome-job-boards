@@ -515,6 +515,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [MaRS D - Work in Tech](https://www.marsdd.com/work-in-tech/community-job-board/) | Toronto's largest tech community hub, with links to other affiliated hubs in Canada (Job board).
 - [Workopolis](https://www.workopolis.com/en/) | Major job board and platform (Job board).
 - [Tech Ladies](https://www.hiretechladies.com/) | A worldwide community with 50,000 members offering a free job board, opportunities to learn, and career support for women in tech (Social network).
+- [MapleRoles](https://www.mapleroles.ca/) | Jobs from Canadian employers' career pages, checked twice a day, with a resume match score (Job board).
 
 ## Colombia
 
